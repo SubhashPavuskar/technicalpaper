@@ -19,7 +19,7 @@ This repository includes the following technical white papers:
    - **Key Topics**: Cloud databases, distributed storage, SQL performance, replication.
    - **Download**: [View Paper](./path-to-file.pdf)
 
-   - 
+     
 
 ### 4. Amazon.com Recommendations: Item-to-Item Collaborative Filtering  
    - **Summary**: This paper introduces the **item-to-item collaborative filtering algorithm** used by Amazon for product recommendations. It explains how the algorithm computes **similarities between items** to provide personalized suggestions to users.
