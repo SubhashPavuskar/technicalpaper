@@ -16,6 +16,7 @@ This repository includes the following technical white papers:
    - **Download**: [View Paper](./path-to-file.pdf)
 
 
+
 ### 3. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases  
    - **Summary**: This paper discusses the architectural design of **Amazon Aurora**, a cloud-native relational database built for high throughput and scalability. It delves into the considerations for achieving **fault tolerance, replication, and cost-efficiency**.
    - **Key Topics**: Cloud databases, distributed storage, SQL performance, replication.
