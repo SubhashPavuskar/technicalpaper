@@ -48,7 +48,6 @@ This repository includes the following technical white papers:
    - **Key Topics**: Distributed tracing, monitoring, observability.
    - **Download**: [View Paper](./path-to-file.pdf)
 
----
 
 ## 📖 How to Use
 
