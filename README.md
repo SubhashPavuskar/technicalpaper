@@ -1,7 +1,6 @@
 # 📄 Technical White Papers Repository
 Welcome to the **Technical White Papers** repository! This collection comprises influential papers in the fields of **distributed systems, database design, networking, large-scale data processing, caching, and cloud computing**.
 
-
 ## 📚 Contents
 This repository includes the following technical white papers:
 
