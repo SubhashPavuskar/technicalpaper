@@ -8,7 +8,6 @@ This repository includes the following technical white papers:
    - **Key Topics**: Network traffic, buffer management, congestion control, packet loss.
    - **Download**: [View Paper](./path-to-file.pdf)
 
-
 ### 2. A Large Scale Analysis of Hundreds of In-Memory Cache Clusters at Twitter  
    - **Summary**: This study examines the deployment and performance of **in-memory caching** systems at Twitter. It analyzes data from numerous cache clusters to understand **usage patterns, efficiency, and scalability**. The findings highlight best practices and potential pitfalls in managing large-scale caching infrastructures.
    - **Key Topics**: In-memory caching, distributed cache clusters, performance analysis.
